@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and Kotlin, followed by Javascript, C++ and C# in the near future.
 - 💞️ Check out my python projects in my repositories that I made within the first six months of university due to curiosity. 
       I will update the projects as I learn different programming principles. You can track my progress by analyzing the code. 
-- 📫 You can contact me at wallacetashyn@gmail.com
+- 📫 You can email me at wallacetashyn@gmail.com
 
 <!---
 tashynw/tashynw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
