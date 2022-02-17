@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tashyn Wallace, a first year student studying Computer Science at the University of the West Indies. 
-- 👀 I’m interested in anything software related. I currently know basic ReactJS, C#, Java and many other languages.
+- 👀 I’m interested in anything software related. I currently know basic React, C#, Java and many other languages.
 - 🌱 I’m currently learning advanced .NET(ASP.NET, Winforms, Xamarin etc) and React JS development (redux etc).
 - 💞️ Check out my projects in my repositories that I made within the first year of university due to curiosity. 
       I will update the projects as I learn different programming principles. You can track my progress by analyzing the code. 
