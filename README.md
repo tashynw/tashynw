@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tashyn Wallace, a first year student studying Computer Science at the University of the West Indies.
 - 👀 I’m interested in anything software related. I currently know the full MERN stack, C#, Java, Python and many other languages/frameworks.
 - 🌱 I’m currently developing projects for my resume.
-- 💞️ Check out my projects in my repositories that I made within my first year of university. ou can track my progress by analyzing the code. 
+- 💞️ Check out my projects in my repositories that I made within my first year of university. You can track my progress by analyzing the code. 
 - 📫 You can email me at wallacetashyn@gmail.com and contact me on linkedin: https://www.linkedin.com/in/tashyn-wallace-695229228/ . Hackerrank account: https://www.hackerrank.com/wallacetashyn
 
 <!---
