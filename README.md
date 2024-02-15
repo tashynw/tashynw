@@ -3,7 +3,6 @@ tashynw/tashynw is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Welcome to my coding world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Hello! I am Tashyn Wallace, a Full Stack Engineer from Jamaica
 
